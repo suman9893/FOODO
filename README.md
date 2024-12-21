@@ -1,4 +1,4 @@
-# DELIVEROO_CLONE
+# FOODO
 A food delivery app.
 
 
